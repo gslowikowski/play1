@@ -1,3 +1,4 @@
+target/
 bin
 framework/classes
 framework/test-classes
@@ -125,7 +126,6 @@ samples-and-tests/zencontact/test-result
 samples-and-tests/zencontact/tmp
 modules/scala
 atlassian-ide-plugin.xml
-modules/*
 build.classes
 modules/crud/nbproject
 nbproject
